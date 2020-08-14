@@ -2,7 +2,7 @@
 
 CyberGym was a [lucidues](https://www.lucideus.com) internal CTF
 
-For platform we used [CTFd](https://github.com/CTFd/CTFd/)
+We used [CTFd](https://github.com/CTFd/CTFd/) as our platform
 
 All the challenge that requires network interaction are running on top of docker.
 

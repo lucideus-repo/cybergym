@@ -1,3 +1,3 @@
-# Network Challange 2
+# Network Challenge 2
 
-In this challenge particaipants were suposed to analyse the packet and extract the zip file.
+In this challenge participants were supposed to analyze the packet and extract the zip file.
