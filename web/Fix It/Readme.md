@@ -7,7 +7,7 @@ docker build -t fixit .
 
 Start the docker container with
 ``` bash
-docker run -d -p 1234:1234 --name  fixit--rm -it teleporter
+docker run -d -p 80:4444 --name  fixit--rm -it fixit
 ```
 
 Solution 
