@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="google_api_key">R4f/mz5cIi2NHsrnAUGqYWThCTg60fHF1xYUZt73KXxS/mHJwYl41hcJ8R3rvAzuu9MUguemAhc8ydjifc+WiY9oVKZyN9xfscoD95b9BDI=</string>
+    <string name="main_msg">Enter Correct Pin to get flag:</string>
+</resources>
