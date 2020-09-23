@@ -1,12 +1,12 @@
 # Source material For CyberGym 3.0
 
-CyberGym was a [lucidues](https://www.lucideus.com) internal CTF
+CyberGym is a [Lucidues](https://www.lucideus.com) internal CTF for the hackers to learn and practice something new.
 
-We used [CTFd](https://github.com/CTFd/CTFd/) as our platform
+We use [CTFd](https://github.com/CTFd/CTFd/) as our platform to host our CTF.
 
-All the challenge that requires network interaction are running on top of docker.
+All the challenges that require a network connection are running on top of Docker.
 
-You can install docker on your system with a convenience script
+You can install docker on your system with a convenient script:
 ``` bash
 curl -fsSL https://get.docker.com | sudo sh -
 
@@ -16,12 +16,14 @@ Add your user to docker group for convenient management
 sudo usermod -aG docker $USER
 ```
 
-Writeup are available [here]()
+Writeups are available [here]()
 
-Organizers
+The challenges are organized in to various categories and are easy to setup and practice.
 
-[Aravind](https://github.com/a6avind)
+Organizers for CyberGym 3.0:
 
-[Dhiyaneshwaran](https://github.com/DhiyaneshGeek)
+1. [Aravind](https://www.linkedin.com/in/a6avind/)
+2. [Dhiyaneshwaran](https://www.linkedin.com/in/dhiyaneshwaran-b-27947a131/)
+3. [Moksh](https://www.linkedin.com/in/moksh-makhija/)
 
-[Moksh](https://github.com/moksh-lucideus)
+We would love to hear your feedback. Shoutout to the entire Hacking community out there.
