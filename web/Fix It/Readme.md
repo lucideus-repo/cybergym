@@ -1,6 +1,6 @@
 # Fix It
 
-**Description:** Challenge is to find the corrupted image ,then fix it and extract the hidden flag from the image.
+**Description:** Challenge is to find the corrupted image , then fix it and extract the hidden flag from the image.
 
 ### Install instructions
 
