@@ -1,6 +1,8 @@
 # Web Challenges
 
-There are a total of 3 Web based challenges that covers some stegnography , cryptography and server side bugs mixed up . 
+There are a total of 3 Web based challenges that covers some Stegnography , Cryptography and Server side bugs mixed up . 
+
+The challenges are created using HTML,Php.
 
 A brief walkthrough reference is also available for each challenge in challenge Readme.
 
