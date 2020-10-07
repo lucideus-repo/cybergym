@@ -1,4 +1,4 @@
-# CyberGym 3.0
+# CYBER GYM
 
 ### About
 
