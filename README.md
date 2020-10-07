@@ -38,7 +38,7 @@ This project is using the GNU General Public License v3.0.
 [Dhiyaneshwaran](https://www.linkedin.com/in/dhiyaneshwaran-b-27947a131/),
 [Moksh](https://www.linkedin.com/in/moksh-makhija/)
 
-We would love to hear your feedback. Reach out to us anytime for suggestions. Shoutout to the entire Hacking community out there.
+We would love to hear your feedback. Reach out to us at lucideus-repo@lucideustech.com anytime for suggestions. Shoutout to the entire Hacking community out there.
 
 ### Owners
 
