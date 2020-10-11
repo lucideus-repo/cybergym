@@ -12,4 +12,4 @@ Start the docker container with
 docker run -d -p 1111:1111 --name  theft--rm -it theft
 ```
 
-**Walkthrough:** [Link Heading](https://test.com) (**Spoiler Alert**)
+**Walkthrough:** [Link Heading](https://geekfreak18.wordpress.com/2020/10/10/cyber-gym-3-0-ctf-writeup/) (**Spoiler Alert**)
