@@ -14,4 +14,4 @@ Start the docker container with
 docker run -d -p 80:1234 --name  gameover--rm -it gameover
 ```
 
-**Walkthrough:** [Link Heading](https://test.com) (**Spoiler Alert**)
+**Walkthrough:** [Link Heading](https://geekfreak18.wordpress.com/2020/10/10/cyber-gym-3-0-ctf-writeup/) (**Spoiler Alert**)
