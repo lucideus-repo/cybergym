@@ -6,37 +6,13 @@ CyberGym is a [Lucidues](https://www.lucideus.com) internal CTF for the Lucideus
 
 ### Setup 
 
-This repository contains the setup files for all the challanges and their solutions.
-Writeups are also available.
-
-We use [CTFd](https://github.com/CTFd/CTFd/) as our platform to host our CTF.
-
-All the challenges that require a network connection are running on top of Docker.
-
-You can install docker on your system with a convenient script:
-
-```bash
-curl -fsSL https://get.docker.com | sudo sh -
-
-```
-
-Add your user to docker group for convenient management
-
-```bash
-sudo usermod -aG docker $USER
-```
-
-The challenges are organized in to various categories and are easy to setup and practice.
+CyberGym2 coming soon, star/watch the repository to stay updated.
 
 ### License
 
 This project is using the GNU General Public License v3.0.
 
 ### Organizers
-
-CyberGym1 organisers are: [Aravind](https://www.linkedin.com/in/a6avind/),
-[Dhiyaneshwaran](https://www.linkedin.com/in/dhiyaneshwaran-b-27947a131/),
-[Moksh](https://www.linkedin.com/in/moksh-makhija/)
 
 CyberGym2 coming soon.
 
