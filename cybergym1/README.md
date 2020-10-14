@@ -6,7 +6,7 @@ CyberGym is a [Lucidues](https://www.lucideus.com) internal CTF for the Lucideus
 
 ### Setup 
 
-This repository contains the setup files for all the challanges and their solutions.
+This repository contains the setup files for all the challanges and their solutions for CyberGym1.
 Writeups are also available.
 
 We use [CTFd](https://github.com/CTFd/CTFd/) as our platform to host our CTF.
@@ -34,11 +34,9 @@ This project is using the GNU General Public License v3.0.
 
 ### Organizers
 
-CyberGym1 organisers are: [Aravind](https://www.linkedin.com/in/a6avind/),
+[Aravind](https://www.linkedin.com/in/a6avind/),
 [Dhiyaneshwaran](https://www.linkedin.com/in/dhiyaneshwaran-b-27947a131/),
 [Moksh](https://www.linkedin.com/in/moksh-makhija/)
-
-CyberGym2 coming soon.
 
 We would love to hear your feedback. Reach out to us at lucideus-repo@lucideustech.com anytime for suggestions. Shoutout to the entire Hacking community out there.
 
