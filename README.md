@@ -7,7 +7,6 @@ CyberGym is a [SAFE Security](https://www.safe.security/) internal CTF for the S
 ### Setup
 
 This repository contains the setup files for all the challenges and their solutions.
-Writeups are also available.
 
 We use [CTFd](https://github.com/CTFd/CTFd/) as our platform to host our CTF.
 
@@ -17,7 +16,6 @@ You can install docker on your system with a convenient script:
 
 ```bash
 curl -fsSL https://get.docker.com | sudo sh -
-
 ```
 
 Add your user to docker group for convenient management
