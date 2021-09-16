@@ -1,0 +1,1 @@
+Q: Snape intercepted the message between harry and hermionie (msg.enc). He also has harry's public key (pub.pem). Not only that, his own key was created with the same modulus (sec.pem). Can you decrypt the message he intercepted?

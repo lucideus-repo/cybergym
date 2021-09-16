@@ -1,0 +1,7 @@
+Q: Dumbledore is the dean of this university. Try to find the user and root flag in his university.
+
+To run this challenge on your host machine. Use the following command:
+
+docker run --rm -itd -p 2002:22/tcp -p 8002:80/tcp faizal417/cg:ddworld
+
+Note: This will expose the port 2002 and 8002 on your machine.

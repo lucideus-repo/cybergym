@@ -1,0 +1,7 @@
+Q: There is a new router in hogwarts. Can you determine the flag from the model number of this router?
+
+To run this challenge on your local machine enter the following command:
+
+ docker run --rm -itd -p 161:161/udp faizal417/cg:meagle
+
+ Note: This will expose 161 port of your system.
