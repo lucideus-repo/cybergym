@@ -1,0 +1,7 @@
+There are multiple houses in hogwarts university. Find the most powerful house in the university and get the flag.
+
+To run this challenge on your local machine. Use the following command:
+
+ docker run --rm -itd -p 8001:80/tcp -p 2001:22/tcp faizal417/cg:hogwarts
+
+ Note: This will expose port 8001 and 2001 on your machine
